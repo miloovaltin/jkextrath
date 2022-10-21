@@ -1,0 +1,16 @@
+{
+"name": "jkextrath",
+"theme": "jkextrath",
+"version": "7.9.4",
+"description": "jkextrath สมัครเว็บคาสิโนเว็บตรง อันดับ 1 แจกโบนัสเครดิตฟรี",
+"keywords": [
+"jkextrath",
+"jkextrath เครดิตฟรี",
+"jkextrath ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/jkextrath",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
